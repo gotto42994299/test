@@ -1,3 +1,4 @@
 こんにちは後藤です。
 .git add
 .git remove
+.git status
